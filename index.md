@@ -2,28 +2,14 @@
 
 You can use the [editor on GitHub](https://github.com/yibukua/yibukua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"一步跨"是中国距朝鲜最近的地方之一，因最近处一步就能跨到朝鲜而得名。在这里游人不但能近距离的看到朝鲜人民生活、劳动以及工作的场面，还可以穿上朝鲜族服装在"一步跨"石前拍照留念。
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+朝鲜劳动党七届三中全会4月20日在平壤举行，金正恩出席会议并在报告中宣布：“党中央2013年3月全会提出的关于‘经济建设与核力量建设并举的战略路线’的各项历史性任务圆满完成。”他说：“在此情况下，朝鲜不再需要进行任何核试验和中远程、洲际弹道火箭试射，于是，北部核试验场也结束了自己的使命。”金正恩指出：“当前阶段，全党全国集中一切力量进行社会主义经济建设，这就是我们党的战略路线。”可见，朝鲜正在进行历史性的发展战略转型。
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
